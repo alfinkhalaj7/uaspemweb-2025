@@ -66,10 +66,10 @@
   <main class="main">
 
     <!-- Page Title -->
-    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/apa.png);">
       <div class="container position-relative">
-        <h1>DAFTAR KEHILANGAN</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        <h1>Daftar Kehilangan</h1>
+        <p>Berikut adalah daftar barang-barang yang dilaporkan hilang. Periksa apakah Anda menemukan barang milik seseorang di sini.</p>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="index.html">Home</a></li>

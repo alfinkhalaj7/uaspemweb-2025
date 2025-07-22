@@ -66,14 +66,14 @@
   <main class="main">
 
     <!-- Page Title -->
-    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/apa.png);">
       <div class="container position-relative">
         <h1>Daftar Barang</h1>
-        <p>Esse dolorum voluptatum ullam est sint nemo et est ipsa porro placeat quibusdam quia assumenda numquam molestias.</p>
+        <p>Lihat berbagai laporan barang hilang maupun ditemukan yang telah diinput oleh pengguna untuk memudahkan proses temu kembali.</p>
         <nav class="breadcrumbs">
           <ol>
             <li><a href="index.html">Home</a></li>
-            <li class="current">Services</li>
+            <li class="current">Daftar brang</li>
           </ol>
         </nav>
       </div>
@@ -143,9 +143,9 @@
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <span>Our Services<br></span>
-        <h2>Our ServiceS</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <span>Layanan Kami<br></span>
+        <h2>Layanan Kami</h2>
+        <p>TemuBarang menyediakan layanan untuk membantu Anda melacak barang yang hilang atau menemukan barang milik orang lain.</p>
       </div><!-- End Section Title -->
 
       <section id="services" class="services section">
@@ -156,7 +156,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card h-100">
                 <div class="card-img">
-                  <img src="assets/img/service-2.jpg" alt="Daftar Kehilangan" class="img-fluid">
+                  <img src="assets/img/cwe.png" alt="Daftar Kehilangan" class="img-fluid">
                 </div>
                 <h3><a href="{{ route('daftar.kehilangan') }}" class="stretched-link">Daftar Kehilangan</a></h3>
                 <p>
@@ -169,7 +169,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
               <div class="card h-100">
                 <div class="card-img">
-                  <img src="assets/img/service-3.jpg" alt="Daftar Penemuan" class="img-fluid">
+                  <img src="assets/img/cwo.png" alt="Daftar Penemuan" class="img-fluid">
                 </div>
                 <h3><a href="{{ route('daftar.penemuan') }}" class="stretched-link">Daftar Penemuan</a></h3>
                 <p>

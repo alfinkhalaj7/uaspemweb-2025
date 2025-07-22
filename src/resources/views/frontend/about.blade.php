@@ -65,7 +65,7 @@
   <main class="main">
 
     <!-- Page Title -->
-    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/page-title-bg.jpg);">
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(assets/img/apa.png);">
       <div class="container position-relative">
         <h1>About</h1>
         <p>Sistem pelaporan barang hilang dan penemuan untuk membantu masyarakat menemukan kembali barang miliknya.</p>
